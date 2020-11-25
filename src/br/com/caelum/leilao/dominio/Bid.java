@@ -10,7 +10,7 @@ public class Bid {
 		this.value = value;
 	}
 
-	public User getUsuario() {
+	public User getUser() {
 		return user;
 	}
 
