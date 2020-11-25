@@ -11,10 +11,10 @@ Como base para este projeto esta sendo utilizado o tutorial "Java e Testes: Test
 
 Ao final do tutorial o usuário terá um projeto em Java que simule uma situação de leilão, com diferentes pessoas realizando lances. Onde o teste aplicado é em cima do valos dos lances.<br>
 A classe de teste vai avaliar o maior lance realizado e o menor lance realizado:<br>
-![Teste realizado](https://drive.google.com/file/d/1dJsYPS-KaLKmRHbHDsowCfTCmvMnB0JS/view)
+![Teste realizado](https://i.ibb.co/MZmDps6/Teste.png)
 
-Para isso foi necessário emular os lances realizados neste leilão:
-![Lances](https://drive.google.com/file/d/1SkHF8UfkwyzdW4d8MHuRjvBDK29TVnrP/view)
+Para isso foi necessário emular os lances realizados neste leilão:<br>
+![Lances](https://i.ibb.co/XLnRvfd/Lances.png)
 
-E com relação os lances realizados os valores esperados foram definidos:
-![Valores esperados](https://drive.google.com/file/d/1q9Uj-5xlbx4JlYZibYCRtqwtLufp_QFD/view)
+E com relação os lances realizados os valores esperados foram definidos:<br>
+![Valores esperados](https://i.ibb.co/GHckzCt/Valores-esperados.png)
